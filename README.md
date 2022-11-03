@@ -16,4 +16,4 @@ Establece una comunicación eficiente entre sistema consumiendo una API REST en 
 ## Instalacion
 
 Ingresar a la carpeta `Api para imagenes` y ejecutar el comando `npm i`
-posteriomente ingresar a la carperta `Api nodejs`
+posteriomente ingresar a la carperta `Api nodejs` y ejecutar el comando `npm i`
