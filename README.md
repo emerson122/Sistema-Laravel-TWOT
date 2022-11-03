@@ -15,5 +15,7 @@ Establece una comunicación eficiente entre sistema consumiendo una API REST en 
 
 ## Instalacion
 
-Ingresar a la carpeta `Api para imagenes` y ejecutar el comando `npm i`
-posteriomente ingresar a la carperta `Api nodejs` y ejecutar el comando `npm i`
+1.Ingresar a la carpeta `Api para imagenes` y ejecutar el comando `npm i`
+2.Posteriomente ingresar a la carperta `Api nodejs` y ejecutar el comando `npm i`
+3.Ingresasr al la Carpeta System_TWOT y Ejecutar el comando `composer install`
+4.Agregar el archivo `.env` de las variables de entorno o modificar el archivo `.env.example`
